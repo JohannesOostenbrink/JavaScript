@@ -18,3 +18,4 @@ function letterFinder(word, match) {
 }
 letterFinder([], [])
 letterFinder('cat', 'ct')
+
